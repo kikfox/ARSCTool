@@ -39,7 +39,7 @@ I: 08.859 Dumped to '/home/kikfox/test/out_xml'
 ```console
 java -jar arsctool.jar build -i "/home/kikfox/test/out_xml" -o "/home/kikfox/test/out_arsc/resources.arsc"
 
-I: 00.002 Building from xml files ... '/home/d/kikfox/testArsc/testBuild/base_bin_XMLa'
+I: 00.002 Building from xml files ... '/home/kikfox/test/out_xml'
 I: 01.990     SPEC(0x0202){HeaderSize=16, ChunkSize=944} anim[0x01, Entries=232]
 I: 02.681     SPEC(0x0202){HeaderSize=16, ChunkSize=41768} id[0x0b, Entries=10438]
 I: 04.749     SPEC(0x0202){HeaderSize=16, ChunkSize=92} style[0x14, Entries=19]
