@@ -68,4 +68,4 @@ I: 07.826 Built to '/home/kikfox/test/out_arsc/resources.arsc'
     
     
 ## Source code 
-* Will be realeased soon 
+### [REAndroid](https://github.com/REAndroid/ARSCLib)
